@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saea", "Saea\Saea.csproj", "{911CFDCA-965B-4155-A8FA-8190B6E89DFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClient", "TestClient\TestClient.csproj", "{F9425391-ADC0-4BFF-95A4-CEEB684C0E61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{911CFDCA-965B-4155-A8FA-8190B6E89DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{911CFDCA-965B-4155-A8FA-8190B6E89DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{911CFDCA-965B-4155-A8FA-8190B6E89DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9425391-ADC0-4BFF-95A4-CEEB684C0E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9425391-ADC0-4BFF-95A4-CEEB684C0E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9425391-ADC0-4BFF-95A4-CEEB684C0E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9425391-ADC0-4BFF-95A4-CEEB684C0E61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
